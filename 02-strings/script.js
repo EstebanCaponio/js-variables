@@ -14,7 +14,7 @@ console.log(number);
 const text = "boolean classe 142";
 console.log(text);
 
-const bool = 3 < 1;
+const bool = false;
 console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
